@@ -25,23 +25,11 @@ The dashboard covers:
 ## 📂 Files in Repository
 - `hr_dashboard.pbix` → Power BI dashboard file  
 - `Updated_HR_Analytics.xlsx` → Dataset used  
-- `Images/` → Dashboard screenshots  
+- `Images/` → Dashboard screenshots and KPIS.  
 - `README.md` → Project documentation  
 
 ---
 
-## 📸 Dashboard Preview
-
-### Full Dashboard
-![Overview](images/dashboard_overview.png)
-
-### KPI Cards
-![KPIs](images/kpi_cards.png)
-
-### Example Chart
-![Chart](images/important_chart.png)
-
----
 
 ## 🚀 How to Use
 1. Download the `.pbix` file.  
@@ -52,6 +40,6 @@ The dashboard covers:
 
 ## ✨ Author
 Created by **Mariam William**  
-🔗 [LinkedIn Profile](https://www.linkedin.com)  
+🔗 [LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/mariam-william-7b5685378/))  
 
 
