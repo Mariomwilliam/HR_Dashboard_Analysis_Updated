@@ -25,7 +25,7 @@ The dashboard covers:
 ## 📂 Files in Repository
 - `hr_dashboard.pbix` → Power BI dashboard file  
 - `Updated_HR_Analytics.xlsx` → Dataset used  
-- `Screenshot 2025-09-28 063503.png` → Dashboard screenshots  
+- `Images/` → Dashboard screenshots  
 - `README.md` → Project documentation  
 
 ---
